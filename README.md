@@ -1,1 +1,1 @@
-'# Devevelopment environment setup using Vagrant' 
+Linux-based development environment setup with Vagrant. 
